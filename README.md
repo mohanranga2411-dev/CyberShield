@@ -1,13 +1,40 @@
-# URL-Analyser
-This is an URL analyser used to analyse the URL saying whether the url given is real or fake (Used for scams like Phishing) this is an very effective detedtor
-First,
-save all the codes to your local device and run the command prompt 
-there enter py app.py
-after running app.py you will get the local host link
-run that link and you will be able to access the url analyser 
-make an folder 
-then create 2 sub folders named static and templates 
-In templates 
-add the files index.html and result.html
-In static 
-add the files style.css
+# 🛡 CyberShield AI
+
+An Intelligent Phishing Threat Detection and URL Risk Assessment Platform built using Python Flask.
+
+## Features
+
+- URL Risk Analysis
+- Phishing Detection
+- HTTPS Validation
+- IP Address Detection
+- Suspicious Keyword Detection
+- Risk Scoring System
+- Futuristic Cybersecurity UI
+
+## Tech Stack
+
+- Python
+- Flask
+- HTML
+- CSS
+- Bootstrap
+
+## Installation
+
+```bash
+pip install flask
+python app.py
+## Project Structure
+
+CyberShield/
+│
+├── app.py
+├── detector.py
+├── templates/
+     Index.html
+     Result.html
+├── static/
+Style.css
+└── README.md
+```
