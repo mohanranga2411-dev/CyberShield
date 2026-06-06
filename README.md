@@ -5,3 +5,9 @@ save all the codes to your local device and run the command prompt
 there enter py app.py
 after running app.py you will get the local host link
 run that link and you will be able to access the url analyser 
+make an folder 
+then create 2 sub folders named static and templates 
+In templates 
+add the files index.html and result.html
+In static 
+add the files style.css
